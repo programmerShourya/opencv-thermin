@@ -1,10 +1,10 @@
 # opencv-thermin
 
-
+most of contributed by anneshdurg pls support him
 
 Works on browsers that support getUserMedia
 
-Try it out here!
+
 
 To begin press 'Start theremin'.
 
