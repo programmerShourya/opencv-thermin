@@ -4,7 +4,7 @@ most of contributed by anneshdurg pls support him
 
 Works on browsers that support getUserMedia
 
-
+Pls download just came thermin .zip
 
 To begin press 'Start theremin'.
 
